@@ -7,7 +7,7 @@ Github'da ipynb uzantılı dosyaların açılması sorun oluyor, bu sorunu çöz
 ### Tripadvisor(ipython).md
   Bu dosyadaki fonksiyon tripadvisor sitesinde şehirlerin "yapılacak şeyler" sekmesinde  o şehirde yapılabilecek etkinlikler,ziyaret edilebilecek yerlerin sayısal verilerini python'daki selenium kütüphanesi yardımıyla çekiyor.
   
-## Built With
+##### Built With
 * [Selenium](https://selenium-python.readthedocs.io/index.html) - For Web-Scraping
 
   
