@@ -1,7 +1,7 @@
 # Web-Scraping
 
 Bu repository web-scraping için kullandığım kodları içermektedir. 
-Github'da ipynb uzantılı dosyaların açılması sorun oluyor, bu sorunu çözmek için https://nbviewer.jupyter.org/ 'ı kullanabilirsiniz.
+Github'da ipynb uzantılı dosyaların açılması sorun olabiliyor, bu sorunu çözmek için https://nbviewer.jupyter.org/ 'ı kullanabilirsiniz.
 
 
 ### Tripadvisor(ipython).md
